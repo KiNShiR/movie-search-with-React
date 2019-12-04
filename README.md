@@ -1,2 +1,3 @@
 # movie-search-with-React
-This project is to learn React.
+
+To learn React, I decided to build this project.
